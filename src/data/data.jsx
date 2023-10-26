@@ -1,26 +1,20 @@
 export const userList = [
     {
         id:1,
-        name: "youssef",
-        email: "youssef@gmail.com",
+        name: "user_1",
+        email: "user_1@gmail.com",
         image:"/use1.jpg"
 
     },
     {
         id:2,
-        name: "yassin",
-        email: "yassin@gmail.com",
+        name: "user_2",
+        email: "user_2@gmail.com",
         image:"/use1.jpg"    },
     {
         id:3,
-        name: "mohamed",
-        email: "mohamed@gmail.com",
+        name: "user_3",
+        email: "user_3@gmail.com",
         image:"/use1.jpg"
-    },
-    {
-        id:4,
-        name: "mohamed",
-        email: "mohamed@gmail.com",
-        image:"/use2.jpg"
     }
 ]
